@@ -1,0 +1,3 @@
+[submodule "extendible-hashing"]
+	path = extendible-hashing
+	url = git@github.com:abrassel/extendible-hashing.git
